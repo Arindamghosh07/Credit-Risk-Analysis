@@ -14,4 +14,4 @@ Charged-off: Applicant has not paid the instalments in due time for a long perio
 
 Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset) 
 
-### The Jupyter notebook contains the code , download the notebook in the same folder with the dataset and the images and run the entire cells of the notebook
+#### The Analysis has been done in Python and encorporates concepts of Weight of Evidence and Information Value which helps in indentifying the features which impacts in an individual's Credit Worthiness.The Jupyter notebook contains the code , download the notebook in the same folder with the dataset and the images and run the entire cells of the notebook
